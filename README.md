@@ -7,16 +7,6 @@ Email ID:- nzala@lakeheadu.ca
 
 # Text Based Emotion Detection using Python
 
-
-## Table of Contents
-
-1. Introduction
-2. Dataset
-3. Methodology
-5. Results and Discussion
-6. Conclusion
-7. References
-
 ## Introduction
 With the advent of new technologies, a connection between emotions and other fields have evolved and become evident. Considering major streams like marketing, human interface and especially social media, emotions play a vital role in holding up their users. In today’s world of social media, when with each move by the user, such a large amount of data is generated emotions are one of the vital considerations taken into account for further analysis. With this project, I propose a model to detect emotions of the text which can further be utilized in multifarious fields for analysis of emotions leading to more user interaction. Analysing the literature review for the topic many unsupervised and supervised approaches have been used by developers till date. This project  tries multiple techniques and find the most efficient method for detecting emotions in a given text.
 
